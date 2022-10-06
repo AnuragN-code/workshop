@@ -5,6 +5,7 @@ The data in the MySQL table will be displayed below the form.
 
 
 # How to dockerize this PHP Application?
+Hello
 
 1.  Create a file with the name `Dockerfile` in the root of the project.
 2.  Contents of Dockerfile:
